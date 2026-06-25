@@ -1,4 +1,4 @@
-# CodeAlpha Basic Network Sniffer
+# Basic Network Sniffer
 
 A Python-based network packet sniffer built using the `scapy` library. This tool captures network traffic, extracts relevant information such as source/destination IP addresses, transport protocols (TCP/UDP/ICMP), and displays snippets of raw payload data. 
 
