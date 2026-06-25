@@ -15,7 +15,7 @@ Before running this tool, you must have the following installed:
 1. Clone or download this repository.
 2. Navigate to the folder in your terminal:
    ```bash
-   cd CodeAlpha_BasicNetworkSniffer
+   cd BasicNetworkSniffer
    ```
 3. Install the required Python packages:
    ```bash
